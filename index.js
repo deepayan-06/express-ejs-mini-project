@@ -11,7 +11,7 @@ app.use(express.static(path.join(__dirname,"/public/css")));
 app.set("view engine", "ejs");
 app.set("views",path.join(__dirname,"/views"));
 
-
+// Home-Route //
 app.get("/home", (req, res) => {
     res.render("home");
 })
