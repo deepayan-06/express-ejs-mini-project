@@ -7,4 +7,4 @@ profiles and posts. User data is stored in a `data.json` file and rendered dynam
 through EJS templates, with shared layout partials (like the page `<head>`) kept reusable
 and DRY. I built this project to practise routing, templating, and serving static assets
 in Express.
-Written By @Deepayan Banerjee
+Written By @Deepayan_Banerjee
